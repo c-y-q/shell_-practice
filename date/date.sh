@@ -11,7 +11,7 @@ date -d"1 week ago" +"%F %H:%M:%S"
 date -d"7 day ago" +"%F %H:%M:%S"
 #格式化
 date +"%Y/%m/%d %H:%M:%S"
-date "+%Y-%m-%d %H:%M:%S"
+date +"%Y-%m-%d %H:%M:%S"
 
 #设置timezone的时区
 #sudo timedatectl set-timezone 'Asia/Shanghai'
